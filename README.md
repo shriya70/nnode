@@ -13,8 +13,8 @@ Steps Completed
 6. Created this README file
 7. Committed and pushed changes to GitHub
 
-Issues Faced
-The issues faced were minimal.
+Issues Faced: 
+ The issues faced were minimal.
 I wanted to confirm whether the cloned repository should be opened directly as a folder in Cursor IDE.
 so,
 I verified the workflow using ChatGPT and proceeded by opening the repository folder in Cursor.
